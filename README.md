@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/public/banner.png?token=GHSAT0AAAAAAB7JND3U3VGGF3UYYHGYO4RAZBSDJAQ" height="300"/>
+
 </p>
 <p align="center">
-  <em>🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. 🤖 </em>
+  <em>Building Ai dedicated to the concept of immersive Artificial Experiences</em>
 </p>
 <p align="center">
     <img alt="Node version" src="https://img.shields.io/static/v1?label=node&message=%20%3E=16.0.0&logo=node.js&color=2334D058" />
